@@ -5,9 +5,9 @@
 <img src="https://github.com/alstjr7437/CordovaStudy/blob/main/img/finish2.JPG" width="300" height="600" align="center">
 
 # 파일 설명
-[[test](https://github.com/alstjr7437/CordovaStudy/test)] 운동 소개 앱 / 자기 소개 앱 들어가 있는 android cordova <br>
-[[hello](https://github.com/alstjr7437/CordovaStudy/hello)] 임시 테스트용 android cordova <br>
-[[코르도바 앱 만들기 설정파일](https://github.com/alstjr7437/CordovaStudy/코르도바앱만들기설정파일.txt)] 코르도바 설정용 텍스트 파일<br>
+[[test](https://github.com/alstjr7437/CordovaStudy/tree/main/test)] 운동 소개 앱 / 자기 소개 앱 들어가 있는 android cordova <br>
+[[hello](https://github.com/alstjr7437/CordovaStudy/tree/main/hello)] 임시 테스트용 android cordova <br>
+[[코르도바 앱 만들기 설정파일](https://github.com/alstjr7437/CordovaStudy/blob/main/%EC%BD%94%EB%A5%B4%EB%8F%84%EB%B0%94%EC%95%B1%EB%A7%8C%EB%93%A4%EA%B8%B0%EC%84%A4%EC%A0%95%ED%8C%8C%EC%9D%BC.txt)] 코르도바 설정용 텍스트 파일<br>
 
 # 기본 설정
 
