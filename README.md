@@ -54,7 +54,7 @@ apachec-ant 1.9.16 버전 압축 파일 다운해서 hybridapp 부분에 넣고 
 <hr>
 주의) android-sdk에 설치 되는지 보기<br>
 오류) 버전이 다운안됨 이라고 오류가 뜸<br>
-해결법) android sdk settings > sdk location에 경로를 C:\Users\(사용자 이름)\AppData\Local\Android\android-sdk
+해결법) android sdk settings > sdk location에 경로를 C:\Users\사용자명\AppData\Local\Android\android-sdk
 이런식으로 android-sdk로 설정해야 android 31등 다운이 됨<br>
 
 
@@ -62,19 +62,21 @@ apachec-ant 1.9.16 버전 압축 파일 다운해서 hybridapp 부분에 넣고 
 ### 4-1. 시스템 변수 추가하기
 - JAVA_HOME > C:\progrqm files\java\jdk1.8.0_202 <br>
   + java 다운되어 있는 폴더 설정 <br>
-- ANDROID_SDK_ROOT	C:\Users\\(사용자이름)\AppData\Local\Android\android-sdk <br>
+- ANDROID_SDK_ROOT	C:\Users\사용자명\AppData\Local\Android\android-sdk <br>
   + android-sdk 부분 폴더 설정 <br>
 - GRADLE_HOME		C:\gradle-3.5
   + gradle 부분 폴더 설정 <br>
 ### 4-2. Path 설정하기 
-%JAVA_HOME%\bin
+```
+%JAVA_HOME%\bin	
 %ANDROID_HOME%\tools
 %ANDROID_HOME%\platform-tools
 %ANDROID_HOME%\build-tools
 %ANDROID_HOME%\cmdline-tools\latest\bin
 %ANDROID_HOME\emulator
 %GRADLE_HOME%\bin
-c:\HybridApp\apace-ant-1.9.16\bin
+C:\HybridApp\apace-ant-1.9.16\bin
+```
 
 ## 5. Node.js [다운로드](https://nodejs.org/ko/download/) 
 cmd 창에서 <br>
@@ -134,7 +136,7 @@ android:largeHeap="true"
 <img src="https://github.com/alstjr7437/CordovaStudy/blob/main/img/manifext%20%EC%84%A4%EC%A0%95.JPG" width="700" height="400">
 
 ## 10. debug.keystore 파일 삭제하기
-C:\Users\[사용자명]\.android 내에 있는 debug.keystore 파일 삭제하기<br>
+C:\Users\사용자명\\.android 내에 있는 debug.keystore 파일 삭제하기<br>
 (삭제가 안될 경우 작업관리자(Ctrl+Alt+Del)에서 해당 프로세스 작업 끝내기 후에 삭제)<br>
 <img src="https://github.com/alstjr7437/CordovaStudy/blob/main/img/debug%20%EC%82%AD%EC%A0%9C.JPG" width="700" height="400">
 
