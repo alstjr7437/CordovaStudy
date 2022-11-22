@@ -1,7 +1,8 @@
 # <img src="https://github.com/alstjr7437/CordovaStudy/blob/main/img/Cordova.jpg" width="70" height="70">[Cordova](https://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html) 입문
 
 # 완료 화면
-
+<img src="https://github.com/alstjr7437/CordovaStudy/blob/main/img/finish3.JPG" width="300" height="600" align="left">
+<img src="https://github.com/alstjr7437/CordovaStudy/blob/main/img/finish2.JPG" width="300" height="600" align="center">
 
 # 파일 설명
 [[test](https://github.com/alstjr7437/CordovaStudy/test)] 운동 소개 앱 / 자기 소개 앱 들어가 있는 android cordova <br>
